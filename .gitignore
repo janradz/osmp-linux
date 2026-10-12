@@ -1,0 +1,37 @@
+# CLion
+.idea/
+
+# vscode
+.vscode/
+
+# macOS
+**/.DS_Store
+
+# CMake build directory
+build/
+cmake-build-release/
+cmake-build-debug/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+.cache/
+
+# Local development and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+.idea/
+__pycache__/
+*.pyc
+*.log
+data/
+build/
+.venv/
